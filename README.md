@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Matt 🎸
+
+I'm a sophomore at Cornell studying CS + Math with a passion for Machine Learning, Web Development, and intersecting software with music. 
 
 <!--
 **Mattiza58/Mattiza58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
